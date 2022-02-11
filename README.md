@@ -17,10 +17,12 @@
 
 •	Produces a dashboard of the different weather variables.
 
+•	Updates the dashboard in real time.
+
 •	Tool created using Python.
 
 •	Under development.
-![](https://github.com/ElvisTorres/Weather_Station/blob/master/Vaisala%20Weather%20Station%20Dashboard%20(1).jpg)
+![](https://github.com/ElvisTorres/Weather_Station/blob/master/Weather%20Station%20Dashboard.JPG)
 
 
 [Project 3: Coding Survey Demographics](https://github.com/ElvisTorres/Coding_Survey)
