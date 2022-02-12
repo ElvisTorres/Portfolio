@@ -1,4 +1,4 @@
-# The Portfolio
+#Portfolio
 [Project 1: Agent's Performance](https://github.com/ElvisTorres/Agents_Performance)
 
 •	Customer service agents’ performance analysis to address some concerns about productivity.
@@ -7,7 +7,7 @@
 
 •	Analysis done using SQL and Tableau.
 
-![Image](https://github.com/ElvisTorres/Agents_Performance/blob/main/Dashboard.png)
+![Image](https://github.com/ElvisTorres/Portfolio/blob/main/images/Dashboard.png)
 
 
 [Project 2: Weather Station Data Processing Tool](https://github.com/ElvisTorres/Weather_Station)
