@@ -23,6 +23,7 @@
 •	Tool created using Python.
 
 •	Under development.
+
 ![](https://github.com/ElvisTorres/Weather_Station/blob/master/Weather%20Station%20Dashboard.JPG)
 
 
@@ -56,7 +57,7 @@
 
 Through SQL queries I analyzed the data on the players available on the FIFA 19 game to answer some questions:
 
-•	Who are the top 1o0 best players in the game?
+•	Who are the top 10 best players in the game?
 
 •	Who are the most promising young players in the game?
 
