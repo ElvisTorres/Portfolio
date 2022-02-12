@@ -24,7 +24,7 @@
 
 •	Under development.
 
-![](https://github.com/ElvisTorres/Weather_Station/blob/master/Weather%20Station%20Dashboard.JPG)
+![](https://github.com/ElvisTorres/Weather_Station/raw/master/Weather%20Station%20Dashboard.JPG)
 
 
 [Project 3: Coding Survey Demographics](https://github.com/ElvisTorres/Coding_Survey)
@@ -37,7 +37,7 @@
 
 • If this survey is representative of the professional coding demographics, it can be concluded that these professions are dominated by white men from the USA and that it is a young workforce.
 
-![](https://github.com/ElvisTorres/Coding_Survey/blob/main/Dashboard%20Coding%20Survey%20Demographics.png)
+![](https://github.com/ElvisTorres/Coding_Survey/raw/main/Dashboard%20Coding%20Survey%20Demographics.png)
 
 
 
@@ -49,7 +49,7 @@
 
 • Analysis was done using SQL and Tableau.
 
-![](https://github.com/ElvisTorres/Sales_Analysis/blob/main/Dashboard%20Sales%20Analysis.png)
+![](https://github.com/ElvisTorres/Sales_Analysis/raw/main/Dashboard%20Sales%20Analysis.png)
 
 
 
