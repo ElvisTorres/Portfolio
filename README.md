@@ -7,7 +7,7 @@
 
 •	Analysis done using SQL and Tableau.
 
-![](https://github.com/ElvisTorres/Portfolio/blob/main/images/Dashboard.png)
+![](https://github.com/ElvisTorres/Portfolio/blob/gh-pages/Images/Dashboard.png)
 
 
 [Project 2: Weather Station Data Processing Tool](https://github.com/ElvisTorres/Weather_Station)
