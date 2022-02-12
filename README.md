@@ -6,6 +6,7 @@
 •	Analyzed data to provide insights about how the agents’ performance can improve.
 
 •	Analysis done using SQL and Tableau.
+
 ![](https://github.com/ElvisTorres/Agents_Performance/blob/main/Dashboard.png)
 
 
