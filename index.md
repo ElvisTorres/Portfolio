@@ -9,7 +9,7 @@
 
 •	Click on project's link to see the dashboard on my Tableu Public profile and use the interactive options.
 
-![](https://github.com/ElvisTorres/Portfolio/blob/main/images/Summary%20Dashboard%20(1).png)
+![](https://github.com/ElvisTorres/Portfolio/blob/gh-pages/Images/FC%20Barcelona%20Summary%20Dashboard.png)
 
 
 [Project 2: Weather Station Data Processing Tool](https://github.com/ElvisTorres/Weather_Station)
