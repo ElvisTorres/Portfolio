@@ -1,13 +1,15 @@
 # Portfolio
-[Project 1: Agent's Performance](https://github.com/ElvisTorres/Agents_Performance)
+[Project 1: FC Barcelona Players Statistics Dashboard](https://public.tableau.com/app/profile/elvis.torres/viz/FCBarcelonaPlayersStatistics/SummaryDashboard)
 
-•	Customer service agents’ performance analysis to address some concerns about productivity.
+•	Comparison of performance metrics of four FC Barcelona players.
 
-•	Analyzed data to provide insights about how the agents’ performance can improve.
+•	Interactive dashboard allows you to select different players and competitions to see their individual and compared stats.
 
-•	Analysis done using SQL and Tableau.
+•	Analysis done using Tableau with minor data cleaning using Google Sheets. Data connected from Google Sheets.
 
-![](https://github.com/ElvisTorres/Portfolio/raw/gh-pages/Images/Dashboard.png)
+•	Click on project's link to see the dashboard on my Tableu Public profile and use the interactive options.
+
+![](https://github.com/ElvisTorres/Portfolio/blob/main/images/Summary%20Dashboard%20(1).png)
 
 
 [Project 2: Weather Station Data Processing Tool](https://github.com/ElvisTorres/Weather_Station)
@@ -27,7 +29,18 @@
 ![](https://github.com/ElvisTorres/Weather_Station/raw/master/Weather%20Station%20Dashboard.JPG)
 
 
-[Project 3: Coding Survey Demographics](https://github.com/ElvisTorres/Coding_Survey)
+[Project 3: Agent's Performance](https://github.com/ElvisTorres/Agents_Performance)
+
+•	Customer service agents’ performance analysis to address some concerns about productivity.
+
+•	Analyzed data to provide insights about how the agents’ performance can improve.
+
+•	Analysis done using SQL and Tableau.
+
+![](https://github.com/ElvisTorres/Portfolio/raw/gh-pages/Images/Dashboard.png)
+
+
+[Project 4: Coding Survey Demographics](https://github.com/ElvisTorres/Coding_Survey)
 
 • Results of a survey conducted to coding professionals and amateurs by Stack Overflow.
 
@@ -41,7 +54,7 @@
 
 
 
-[Project 4: Sales Analysis](https://github.com/ElvisTorres/Sales_Analysis)
+[Project 5: Sales Analysis](https://github.com/ElvisTorres/Sales_Analysis)
 
 • Database with store sales of several products.
 
@@ -53,7 +66,7 @@
 
 
 
-[Project 5: FIFA 19 Players Analysis](https://github.com/ElvisTorres/FIFA_19_Players)
+[Project 6: FIFA 19 Players Analysis](https://github.com/ElvisTorres/FIFA_19_Players)
 
 Through SQL queries I analyzed the data on the players available on the FIFA 19 game to answer some questions:
 
