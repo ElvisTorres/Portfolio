@@ -1,18 +1,6 @@
 # Portfolio
-[Project 1: FC Barcelona Players Statistics Dashboard](https://public.tableau.com/app/profile/elvis.torres/viz/FCBarcelonaPlayersStatistics/SummaryDashboard)
 
-•	Comparison of performance metrics of four FC Barcelona players.
-
-•	Interactive dashboard allows you to select different players and competitions to see their individual and compared stats.
-
-•	Analysis done using Tableau with minor data cleaning using Google Sheets. Data connected from Google Sheets.
-
-•	Click on project's link to see the dashboard on my Tableu Public profile and use the interactive options.
-
-![](https://github.com/ElvisTorres/Portfolio/raw/gh-pages/Images/FC%20Barcelona%20Summary%20Dashboard.png)
-
-
-[Project 2: Weather Station Data Processing Tool](https://github.com/ElvisTorres/Weather_Station)
+[Project 1: Weather Station Data Processing Tool](https://github.com/ElvisTorres/Weather_Station)
 
 •	Data wrangling and visualization tool for a weather station.
 
@@ -27,6 +15,19 @@
 •	Under development.
 
 ![](https://github.com/ElvisTorres/Weather_Station/raw/master/Weather%20Station%20Dashboard.JPG)
+
+
+[Project 2: FC Barcelona Players Statistics Dashboard](https://public.tableau.com/app/profile/elvis.torres/viz/FCBarcelonaPlayersStatistics/SummaryDashboard)
+
+•	Comparison of performance metrics of four FC Barcelona players.
+
+•	Interactive dashboard allows you to select different players and competitions to see their individual and compared stats.
+
+•	Analysis done using Tableau with minor data cleaning using Google Sheets. Data connected from Google Sheets.
+
+•	Click on project's link to see the dashboard on my Tableu Public profile and use the interactive options.
+
+![](https://github.com/ElvisTorres/Portfolio/raw/gh-pages/Images/FC%20Barcelona%20Summary%20Dashboard.png)
 
 
 [Project 3: Agent's Performance](https://github.com/ElvisTorres/Agents_Performance)
